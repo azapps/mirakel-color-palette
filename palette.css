@@ -1,0 +1,15 @@
+.color {
+    font-weight: bold;
+    height: 50px;
+    text-align: center;
+}
+.tw { color: white; }
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
